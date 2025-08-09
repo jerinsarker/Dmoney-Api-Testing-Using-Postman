@@ -26,7 +26,8 @@ D-Money is a demo money transaction system, where user can send money , deposit,
 
 ## Report 
 <img width="677" height="657" alt="Screenshot (659)" src="https://github.com/user-attachments/assets/70b5bdca-122b-4381-84a0-289279750e89" />
-<img width="914" height="725" alt="Screenshot (660)" src="https://github.com/user-attachments/assets/b9ce9d36-69da-4a7f-ad2d-3d2917051584" />
+<img width="1020" height="710" alt="Screenshot (670)" src="https://github.com/user-attachments/assets/8dad69a9-a13d-4151-aa81-30aef0806393" />
+
 
 
  
